@@ -1,0 +1,8 @@
+## TODOs
+1. add set_x, set_y and get_x and get_y to all the class implementations - Done
+2. Modify the cpptypicalprojectsetup file to include doxygen comments - Done
+3. code std::string C++11 to return string in C++11 style
+
+## Links
+1. http://www.fltk.org/doc-1.3/classFl__Repeat__Button.html
+2. http://www.fltk.org/doc-1.3/classFl__Round__Button.html
