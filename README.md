@@ -1,1 +1,1 @@
-# C++11 port for FLTK - FLTKPort
+# An attempt to port FLTK to C++11 - FLTKPort
