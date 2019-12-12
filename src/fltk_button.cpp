@@ -16,7 +16,7 @@ FLTKButton::FLTKButton ():Fl_Button(20, 20, 100, 20, "Push Button"){
 
 FLTKButton::FLTKButton (int _x, int _y, int width, int height)
 :Fl_Button (_x, _y, width, height){
-	label ("<>");
+	label ("Push Button");
 }
 
 FLTKButton::FLTKButton (int _x, int _y, int width, int height,
