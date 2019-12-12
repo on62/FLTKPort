@@ -20,7 +20,7 @@ FLTKInput::FLTKInput (int _x, int _y, int width, int height,
 
 FLTKInput::FLTKInput (int _x, int _y, int width, int height)
 :Fl_Input (_x, _y, width, height){
-	value ("Push Button");
+	value ("Input Text");
 }
 
 FLTKInput::~FLTKInput (){
